@@ -1,0 +1,5 @@
+print ('Tell me your favorite stuff.')
+fruit = input('Your favorite fruit is ')
+flower = input('Your favorite flower is ')
+drink = input('Your favorite drink is ')
+print ('You entered: ' + fruit + ' ' + flower + ' ' + drink)
